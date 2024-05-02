@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.env
+
+# Ignore database files
+*.sqlite3
+
+# Ignore static files
+/staticfiles/
+
+# Ignore media files
+/media/
+
+# Ignore virtual environment
+venv/
+*.pyc
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
